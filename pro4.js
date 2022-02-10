@@ -33,15 +33,17 @@ Objetivos secundarios:
 7- Converse com o sabio.
 8- Torne-se guardião da vila.   `);
 
-nomeBruxo:
-armadura=
-moeda= Xouro, Xprata, Xbronze, Xcobre, Xraridade.:
-energia= 
-humor=
-armadura=
-armas1=
-armas2=
-mochila=
+
+Personagem:
+        nomeBruxo:
+        armadura=
+        moeda= Xouro, Xprata, Xbronze, Xcobre, Xraridade.:
+        energia= 
+        humor=
+        armadura=
+        armas1=
+        armas2=
+        mochila=
     
 const cicloDia = ['manhã', 'tarde', 'noite'];
 const periodoMan = [manha]; //Momentos do dia da história
