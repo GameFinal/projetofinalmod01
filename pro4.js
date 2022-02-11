@@ -11,21 +11,35 @@ Conteúdo de condicionais, laços, funções e objetos bem aplicados (2,0 pontos
 const prompt = require("prompt-sync")();
 
 
-console.log(`'Bruxo' conseguiu entender seu ultimo feito e agora passa por uma fase nova ao qual jamais havia vivido; uma era de paz e tranquilidade. 
-Na qual tentará viver uma vida "normal" ou menos "perturbada".
+console.log(`'O Bruxo' conseguiu entender seu último feito,
+e agora passa por uma fase nova ao qual jamais havia vivido,
+uma era de paz e tranquilidade na qual tentará viver uma vida
+"normal" ou menos "perturbada".
 
-Nessa aventura, Crowster será interpretado por você e todas as ações escolhidas por você usuario.
+Nessa aventura Crowster será interpretado por você e todas as
+ações escolhidas por você usuario.
 
-Bruxo apos salvar o mundo, volta para sua antiga vila para ajudar na reconstrução total, ele se sentia culpado e preferiu ajeitar as coisas.
-Conseguiu uma barraca modesta perto da entrada da vila para que conseguisse ver e ouvir os perigos possiveis chegando antes de todos e ao 
-mesmo tempo estar pronto para o dia de trabalho antes de todos. Sua rotina começa as 4:30h da manhã, indo até as 19:20h da tarde e não para 
-nem aos domingos. de 19:30h até o dia seguinte ele se resguarda para seus afazeres domesticos, treinamentos de magia e combate, lazer e outras coisas que 
-desejar fazer, lembrando que deverá dormir pelo menos 5h por dia.
+Bruxo apos salvar o mundo, volta para sua antiga vila para ajudar
+ na reconstrução total, ele se sentia culpado e preferiu ajeitar
+as coisas.
+Conseguiu uma barraca modesta perto da entrada da vila para que
+conseguisse ver e ouvir os perigos possiveis chegando antes de
+todos e ao mesmo tempo estar pronto para o dia de trabalho antes
+de todos. Sua rotina começa as 4:30h da manhã, indo até as 19:20h 
+da tarde e não para nem aos domingos. de 19:30h até o dia seguinte
+ele se resguarda para seus afazeres domesticos, treinamentos de magia
+combate, lazer e outras coisas que desejar fazer, lembrando que deverá
+dormir pelo menos 5h por dia.
 
-Neste ponto você passa a controlar 'bruxo', decidindo suas proximas ações atravéz de escolhas onde a cada decisão tomada, mudará seu final. Você precisará
-fazer escolhas que vão fazer o tempo passar, dependendo de cada tarefa o tempo passará mais rapido ou mais devagar, sendo que cada minima terefa gastará 30min
-e o maximo 5h, sendo que será impossivel desfazer uma ação depois de executada, levando a proxima escolha até que o jogo tenha um fim ou você conclusa seus objetivos
+Neste ponto você passa a controlar 'bruxo', decidindo suas proximas ações
+atravéz de escolhas onde a cada decisão tomada, mudará seu final. Você precisará
+fazer escolhas que vão fazer o tempo passar, dependendo de cada tarefa o tempo
+passará mais rapido ou mais devagar, sendo que cada minima terefa gastará 30min
+e o maximo 5h, sendo que será impossivel desfazer uma ação depois de executada,
+levando a proxima escolha até que o jogo tenha um fim ou você conclusa seus objetivos
 principais. Caso prefira não usar seu nome, o nome do personagem será por padrão Crowster. 
+Principais objetivo:
+ 
 
 Principais objetivo:
 1- Ajudar na reconstrução da vila.
