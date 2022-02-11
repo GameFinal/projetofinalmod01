@@ -42,6 +42,9 @@ Objetivos secundarios:
 6- Ajude alguém.
 7- Converse com o sabio.
 8- Torne-se guardião da vila.   `);
+console.log();
+
+console.log(`Sua rotina começa as 4:30h da manhã,`);
 
 
 Personagem:
