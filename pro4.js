@@ -44,7 +44,10 @@ Objetivos secundarios:
 8- Torne-se guardião da vila.   `);
 console.log();
 
-console.log(`Sua rotina começa as 4:30h da manhã,`);
+console.log(`${nome}, acorda às 4:30h todo dia, toma um banho, arruma suas coisas para o dia de trabalho, toma café e sai para seus afazeres.
+Ao sair pela porta de casa olha para o céu e admiria por uns instantes o amanhecer, havia muito tempo que não fazia isso em paz, mesmo assim 
+da uma olhada aos arredores do portão principal da vila para garantir que não há ameaças proximas e segue para:`);
+let escolha = prompt(`Qual lugar você quer ir primeiro? Para ir a: 1-Centro da vila / 2-Os muros / 3-Torres de vigia / 4-Docas / 5-Taberna. `);
 
 
 Personagem:
