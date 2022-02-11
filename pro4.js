@@ -122,11 +122,11 @@ status2[3] = "sangrando";
 status2[4] = "gravemente ferido"
 
 const status3 = [];  //stts para humor
-humor[0] = "Bom";
-humor[1] = "Mau";
+humor[0] = "Excelente";
+humor[1] = "Bom";
 humor[2] = "Normal";
-humor[3] = "Estressado";
-humor[4] = "Excelente";
+humor[3] = "Mau";
+humor[4] = "Estressado";
 
 const bruxo = {
     nome : `José`,
