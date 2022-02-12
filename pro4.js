@@ -260,6 +260,49 @@ const nome = prompt("Digite seu nome para iniciar: "); // Jogador colocará seu 
 
 console.log(``)
 
+const humor = [
+  "Triste",
+  "Feliz",
+  "Frustrado",
+  "Normal",
+  "Estressado",
+  "Euforico",
+];
+
+console.log(humor)
+const taberna = (humor) => {
+  console.log(`Bem-vindo a Taberna grande Bruxo!`);
+
+  for (; ;) {
+
+    let resphumor = prompt(`Como está se sentindo agora? `);
+
+    if (resphumor !== "feliz") {
+
+      let resphumor = prompt(`Como deseja melhora? `);
+    } else {
+      const irVila = prompt("Vamos reconstruir a vila? ")
+
+      if (irVila === "sim") {
+        
+      let escolha = prompt(`Qual lugar você quer ir primeiro? Para ir a: 1-Centro da vila  2-Os muros  3-Torres de vigia  4-Docas 5-Taberna. `);
+
+        docas();
+    
+        break
+      }
+    }
+    
+  }
+};
+
+
+const docas = () => {
+console.log("só pra saber")
+}
+
+taberna();
+
 
 
 
